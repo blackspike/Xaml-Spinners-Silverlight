@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "xamlSpinnersSite", "xamlSpinnersSite", "{824345A4-E99D-4526-918F-647A0B8E378F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/xamlSpinnersSite"
+		Debug.AspNetCompiler.PhysicalPath = "xamlSpinnersSite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\xamlSpinnersSite\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/xamlSpinnersSite"
+		Release.AspNetCompiler.PhysicalPath = "xamlSpinnersSite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\xamlSpinnersSite\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49786"
+		ProjOutputReferences = "{7002133f-30a4-46fb-ab47-66505e06e0c2}|ClientBin|false;"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xamlSpinners", "xamlSpinners\xamlSpinners.csproj", "{7002133F-30A4-46FB-AB47-66505E06E0C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{824345A4-E99D-4526-918F-647A0B8E378F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824345A4-E99D-4526-918F-647A0B8E378F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824345A4-E99D-4526-918F-647A0B8E378F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824345A4-E99D-4526-918F-647A0B8E378F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7002133F-30A4-46FB-AB47-66505E06E0C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7002133F-30A4-46FB-AB47-66505E06E0C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7002133F-30A4-46FB-AB47-66505E06E0C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7002133F-30A4-46FB-AB47-66505E06E0C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,60 @@
+D:\My Docs\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\AppManifest.xaml
+D:\My Docs\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\xamlSpinners.dll
+D:\My Docs\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\xamlSpinners.pdb
+D:\My Docs\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\xamlSpinners.xap
+D:\My Docs\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\TestPage.html
+D:\My Docs\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\Microsoft.Expression.Interactions.dll
+D:\My Docs\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\System.Windows.Interactivity.dll
+D:\My Docs\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\System.Windows.Interactivity.xml
+D:\My Docs\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\Microsoft.Expression.Interactions.xml
+D:\My Docs\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\obj\Debug\ResolveAssemblyReference.cache
+D:\My Docs\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\obj\Debug\App.g.cs
+D:\My Docs\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\obj\Debug\MainPage.g.cs
+D:\My Docs\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\obj\Debug\xamlSpinners.g.resources
+D:\My Docs\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\obj\Debug\xamlSpinners.dll
+D:\My Docs\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\obj\Debug\xamlSpinners.pdb
+D:\My Docs\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\obj\Debug\XapCacheFile.xml
+D:\My Docs\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\obj\Debug\ucSpinnerCogs.g.cs
+D:\My Docs\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\obj\Debug\ucSpinnerApple.g.cs
+D:\My Docs\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\obj\Debug\ucSpinnerPiston.g.cs
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\AppManifest.xaml
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\xamlSpinners.dll
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\xamlSpinners.pdb
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\xamlSpinners.xap
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\TestPage.html
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\obj\Debug\App.g.cs
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\obj\Debug\MainPage.g.cs
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\obj\Debug\ucSpinnerApple.g.cs
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\obj\Debug\ucSpinnerCogs.g.cs
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\obj\Debug\ucSpinnerPiston.g.cs
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\obj\Debug\ucTail.g.cs
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\obj\Debug\xamlSpinners.g.resources
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\obj\Debug\xamlSpinners.dll
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\obj\Debug\xamlSpinners.pdb
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\obj\Debug\XapCacheFile.xml
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\obj\Debug\ucSpinner3Dplanes.g.cs
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\obj\Debug\ucSpinnerSwirl.g.cs
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\obj\Debug\ucSpinnerDotCircle.g.cs
+D:\My Docs\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\obj\Debug\ucSpinner3Dplanes.g.cs
+D:\My Docs\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\obj\Debug\ucSpinnerSwirl.g.cs
+D:\My Docs\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\obj\Debug\ucSpinnerDotCircle.g.cs
+D:\My Docs\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\obj\Debug\ucTail.g.cs
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\System.Reactive.dll
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\System.Windows.Controls.dll
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\System.Windows.Controls.Toolkit.dll
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\System.Windows.Controls.Toolkit.pdb
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\System.Windows.Controls.Toolkit.xml
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\System.Windows.Controls.xml
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\felix\Documents\My Dropbox\blackspike blog\blog post ideas\spinners\xamlSpinners\xamlSpinners\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
